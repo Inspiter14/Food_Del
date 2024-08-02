@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    height: 100px;
+}
+
+.flex-container .logo{
+    height: 50px;
+    width: 180px;
+}
+
+.flex-container figcaption{
+    height: 8px;
+}
